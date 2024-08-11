@@ -59,7 +59,10 @@ button {
 }
 
 button:hover {
-    background-color: #218838;
+    padding: 10px 30px 10px 35px;
+    background-color: rgb(228, 181, 248);
+    width:100%;
+    border-color: rgb(228, 181, 248);
 }
 
 #result {
